@@ -7,6 +7,10 @@ This project adheres to [Semantic Versioning](https://semver.org), except that â
 Do not manually edit this file. It will be automatically updated when a new release is published.
 
 ## 0.9.12
+_04 November 2024_
+
+
+## 0.9.12
 _18 October 2024_
 
 * fix: Update c2pa-rs for RegionOfInterest support. ([#269](https://github.com/contentauth/c2pa-rs/pull/269))
